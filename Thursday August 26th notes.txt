@@ -1,0 +1,87 @@
+Syllabus change:
+Change for midterm exaam, if something is wrong and you know what you did wrong you can go back to teacher and ask to change it so long as you know what is wrong.
+to potentially get 100%.
+
+Lab 0: how to Github. 
+
+GitHub allows the teacher to see and edit my code. Allows for more easier help with project and easier correction of mistakes. 
+Every assignment that require code will have its own github link. Lab 1, 2 ..... etc.
+Developer Employers will look at Github profile.
+Allows for people all accross the world to work together on a project, while being able to update it all real time with everyone. 
+
+Intro:									PowerPoint:
+Github is a cloud repository system
+Git is the system to access that cloud repository system.
+Github is known as a Version control system.
+
+VCS:
+tracks files and directories, changes over time
+recall previous version.
+
+What is Git?
+Est - 2005 by Linus Torvalds
+replaced Bitkeeper
+by 2018 over 90% used github. Nowaday that number is probably closer to 100%.
+
+Git- Distributed version control system. (DVC)
+No need to connect to central server
+work without internet
+no single point failure. (multiple location of the same code)
+developers work indepent and merge code later
+
+Repostitory
+used to organize a single project
+Repos has folders, files, images, videos, spreadsheet, and any other data contruct.
+
+Branching:
+its the start line for a project. Usually the save point right before you actually start coding, after all the set up is all done. 
+if you mess up you can revert back to baseline so that you dont lose progress.
+coding is an expirement, constantly try to break it so that you can fix and improve it. 
+branch line is time from left to right. 
+Baseline stays the same. You only ever get a copy of the baseline. If something is good you can ask the owner of the baseline to merge it, but until then nothing changes.
+ideas dont work, delete the branch
+have many different version of the same problem. Branch.
+
+Main:
+Baseline used to called Master. Two Baseline, one called master, one called Dev
+Now called main branch, and dev branch. Main branch is final revised form of the code so you really want to use the dev branch for more push/pull expiremental work and when you have polished the code then you may push it to the Main branch. Once that is done, the Main branch is the Live code. and then repeat the same process again. 
+
+Pull Request
+Discussion of what has been committed. 
+done When?
+	share something
+	stuck and need help
+	review for you work
+great for collab. 
+NOTE: any help regarding code must be in the pull request. This gives access to code to the teacher.
+you are requesting your code to be pulled onto the branch.
+
+Commits
+Changes made on a branch pushed to a main dev branch or the main branch. permanent change. 
+each commit usually has a comment section to tell the other person what you did.
+
+Merge and Deploy
+if a new branch causes problem you can revert the pull.
+Merged conflicts: if you get a line or lines of code with the same but little different variations, you may have to choose which lines to keep or not.
+Documentation is very important the larger the project becomes.
+
+Github:
+platform to host git code repos
+most popular Git host
+user collaborate on project from anywhere.
+free.
+implementation of GIT, Cloudbase version.
+
+(picture Example)
+
+Note : it doesn't have to be on github. but most companies used github. 
+
+(Visual example)
+You can automate anything. 
+
+
+
+
+
+
+
