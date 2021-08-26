@@ -1,0 +1,31 @@
+Visual studios, using .net core v5
+
+
+Squiggles are wavy line underlien that highlight eror in your code. 
+Very useful tool. help you immediately fix code once spotted.
+Also gives out pop out menus for quick fixes. 
+Light bulb, gives actionable things in the margin for you to use to fix. Forget a package import but using from a package? it can add in the import in for you.
+
+Code Cleanup:
+already integrated with Cntrl-S
+only really works with C#.
+c# is already part of .net core framework
+
+refactoring: making your code less complex but keepign the same behavior.
+Built in refactoring tools, to clear up code.
+
+Intellisense: 
+code completion aid tool. 
+if you have a method and documentation correctly and you use that method, it will tell you what to give it and what it will return.
+parameter info: what you give
+Quick info: what it return
+Troublshooting: if its broken intellisense may not work correctly. 
+
+Visual Studio Serach and Definition > CTRL+Q cmd to find IDE feature. 
+
+Code Snippet Tab Tab, create code blocks that can be inserted at will.
+
+Coding standard is the same as java
+All method in a class is Pascal Case.
+
+
